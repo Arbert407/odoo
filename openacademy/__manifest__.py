@@ -11,7 +11,7 @@
             - attendees registration
     """,
 
-    'author': "My Company",
+    'author': "Alejandro Claros",
     'website': "http://www.yourcompany.com",
 
     # Categories can be used to filter modules in modules listing
