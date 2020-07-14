@@ -71,7 +71,7 @@
             </field>
         </record>
 
-        <menuitem id="courses_menu" name="Courses" parent="openacademy_menu"
+        <menuitem id="courses_form" name="Courses" parent="openacademy_menu"
                   action="course_form_view"/>
 
         <!-- <record model="ir.ui.view" id="course_search_view">
