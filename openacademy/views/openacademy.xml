@@ -1,11 +1,6 @@
 <!-- <?xml version="1.0" encoding="UTF-8"?> -->
 <odoo>
-
-        <!-- window action -->
-        <!--
-            The following tag is an action definition for a "window action",
-            that is an action opening a view or a set of views
-        -->
+<!-- 
         <record model="ir.ui.view" id="course_form_view">
             <field name="name">Courses</field>
             <field name="model">openacademy.course</field>
@@ -38,13 +33,13 @@
                     <field name="description"/>
                 </search>
             </field>
-        </record>
+        </record> -->
 
-
-
-
-
-
+        <!-- window action -->
+        <!--
+            The following tag is an action definition for a "window action",
+            that is an action opening a view or a set of views
+        -->
 
         <record model="ir.actions.act_window" id="course_list_action">
             <field name="name">Courses</field>
