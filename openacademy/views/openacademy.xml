@@ -67,9 +67,6 @@
              It is not required when it is the same module -->
 
 
-        <menuitem id="courses_form" name="Courses Form" parent="openacademy_menu"
-                  action="course_form_view"/>
-
         <!-- <record model="ir.ui.view" id="course_search_view">
             <field name="name">course.search</field>
             <field name="model">openacademy.course</field>
