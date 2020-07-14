@@ -2,7 +2,7 @@
 <odoo>
 
         <record model="ir.ui.view" id="course_form_view">
-            <field name="name">course.form</field>
+            <field name="name">Course</field>
             <field name="model">openacademy.course</field>
             <field name="arch" type="xml">
                 <form string="Course Form">
@@ -25,7 +25,7 @@
         </record>
 
         <record model="ir.ui.view" id="course_search_view">
-            <field name="name">course.search</field>
+            <field name="name">Search</field>
             <field name="model">openacademy.course</field>
             <field name="arch" type="xml">
                 <search>
