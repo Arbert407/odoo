@@ -125,7 +125,7 @@
             <field name="arch" type="xml">
                 <tree string="Session Tree">
                     <field name="name"/>
-                    <field name="course_id"/>
+                    <!-- <field name="course_id"/> -->
                 </tree>
             </field>
         </record>
