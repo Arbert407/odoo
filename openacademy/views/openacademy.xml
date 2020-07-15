@@ -11,10 +11,6 @@
                             <field name="name"/>
                             <field name="description"/>
                         </group>
-                        <group>
-                            <field name="name"/>
-                            <field name="description"/>
-                        </group>
                         <notebook>
                             <page string="Description">
                                 <field name="description"/>
