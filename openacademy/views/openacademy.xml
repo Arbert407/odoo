@@ -102,7 +102,7 @@
                     <sheet>
                         <group>
                             <group string="General">
-                                <field name="course_id"/>
+                                <!-- <field name="course_id"/> -->
                                 <field name="name"/>
                                 <field name="instructor_id"/>
                             </group>
