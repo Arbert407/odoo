@@ -164,7 +164,7 @@ msgstr "Duración en días"
 #. module: openacademy
 #: model:ir.model.fields,field_description:openacademy.field_openacademy_session__end_date
 msgid "End Date"
-msgstr "Fecha final"
+msgstr "Fecha Final"
 
 #. module: openacademy
 #: model_terms:ir.ui.view,arch_db:openacademy.session_form_view
@@ -174,7 +174,7 @@ msgstr "General"
 #. module: openacademy
 #: model_terms:ir.ui.view,arch_db:openacademy.course_search_view
 msgid "Group By"
-msgstr "Agrupar por"
+msgstr "Agrupar Por"
 
 #. module: openacademy
 #: model:ir.model.fields,field_description:openacademy.field_openacademy_course__id
@@ -195,21 +195,21 @@ msgstr "Instructor"
 #: model:ir.model.fields,field_description:openacademy.field_openacademy_session____last_update
 #: model:ir.model.fields,field_description:openacademy.field_openacademy_wizard____last_update
 msgid "Last Modified on"
-msgstr "Última modificación en"
+msgstr "Última Modificación en"
 
 #. module: openacademy
 #: model:ir.model.fields,field_description:openacademy.field_openacademy_course__write_uid
 #: model:ir.model.fields,field_description:openacademy.field_openacademy_session__write_uid
 #: model:ir.model.fields,field_description:openacademy.field_openacademy_wizard__write_uid
 msgid "Last Updated by"
-msgstr "Última actualización por"
+msgstr "Última Actualización por"
 
 #. module: openacademy
 #: model:ir.model.fields,field_description:openacademy.field_openacademy_course__write_date
 #: model:ir.model.fields,field_description:openacademy.field_openacademy_session__write_date
 #: model:ir.model.fields,field_description:openacademy.field_openacademy_wizard__write_date
 msgid "Last Updated on"
-msgstr "Última actualización el"
+msgstr "Última Actualización el"
 
 #. module: openacademy
 #: model_terms:ir.ui.view,arch_db:openacademy.course_search_view
